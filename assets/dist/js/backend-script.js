@@ -1,0 +1,1 @@
+jQuery(document).ready((function(e){jQuery("#buddyboss-sorting-main").sortable()}));
